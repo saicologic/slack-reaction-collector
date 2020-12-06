@@ -4,7 +4,7 @@
 # 依存ライブラリ
 
 ```
-pip install slackclient
+pip install slack_sdk
 pip install sqlalchemy
 pip install mysql-connector-python-rf
 pip install fire
