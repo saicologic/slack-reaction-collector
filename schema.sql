@@ -1,6 +1,6 @@
-CREATE DATABASE slack_reaction_gater DEFAULT CHARACTER SET utf8;
+CREATE DATABASE slack_reaction_collector DEFAULT CHARACTER SET utf8;
 
-use slack_reaction_gater;
+use slack_reaction_collector;
 
 CREATE TABLE reactions (
   `id` int(11) NOT NULL AUTO_INCREMENT,
